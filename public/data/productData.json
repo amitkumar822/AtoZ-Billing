@@ -1,0 +1,182 @@
+{
+    "8901234560011": {
+        "id": 637,
+        "name": "Paracetamol 500mg",
+        "price": 20,
+        "gst": 5,
+        "discount": 0,
+        "expire": "2026-04-13",
+        "stock": 150
+    },
+    "8901234560012": {
+        "id": 638,
+        "name": "Toothpaste 100g",
+        "price": 35,
+        "gst": 12,
+        "discount": 5,
+        "expire": "2026-10-09",
+        "stock": 87
+    },
+    "8901234560013": {
+        "id": 639,
+        "name": "Shampoo 180ml",
+        "price": 70,
+        "gst": 18,
+        "discount": 10,
+        "expire": "2026-12-31",
+        "stock": 76
+    },
+    "8901234560014": {
+        "id": 640,
+        "name": "Detergent Powder",
+        "price": 50,
+        "gst": 12,
+        "discount": 2,
+        "expire": "2027-01-30",
+        "stock": 115
+    },
+    "8901234560015": {
+        "id": 641,
+        "name": "Handwash 250ml",
+        "price": 40,
+        "gst": 18,
+        "discount": 0,
+        "expire": "2026-12-30",
+        "stock": 90
+    },
+    "8901234560016": {
+        "id": 642,
+        "name": "Pain Balm",
+        "price": 25,
+        "gst": 5,
+        "discount": 3,
+        "expire": "2026-09-29",
+        "stock": 200
+    },
+    "8901234560017": {
+        "id": 643,
+        "name": "Cold Cream 100g",
+        "price": 38,
+        "gst": 18,
+        "discount": 5,
+        "expire": "2026-02-28",
+        "stock": 62
+    },
+    "8901234560018": {
+        "id": 644,
+        "name": "Face Mask",
+        "price": 10,
+        "gst": 5,
+        "discount": 0,
+        "expire": "2026-04-03",
+        "stock": 285
+    },
+    "8901234560019": {
+        "id": 645,
+        "name": "Hand Sanitizer",
+        "price": 50,
+        "gst": 12,
+        "discount": 2,
+        "expire": "2026-05-31",
+        "stock": 129
+    },
+    "8901234560020": {
+        "id": 646,
+        "name": "Vitamin C Tablets",
+        "price": 60,
+        "gst": 5,
+        "discount": 4,
+        "expire": "2026-03-13",
+        "stock": 60
+    },
+    "8901234560021": {
+        "id": 647,
+        "name": "Aloe Vera Gel",
+        "price": 45,
+        "gst": 18,
+        "discount": 5,
+        "expire": "2026-11-10",
+        "stock": 88
+    },
+    "8901234560022": {
+        "id": 648,
+        "name": "Glucose Powder",
+        "price": 30,
+        "gst": 12,
+        "discount": 2,
+        "expire": "2026-10-29",
+        "stock": 93
+    },
+    "8901234560023": {
+        "id": 649,
+        "name": "Lip Balm",
+        "price": 20,
+        "gst": 18,
+        "discount": 3,
+        "expire": "2026-05-14",
+        "stock": 180
+    },
+    "8901234560024": {
+        "id": 650,
+        "name": "Herbal Oil 100ml",
+        "price": 60,
+        "gst": 5,
+        "discount": 0,
+        "expire": "2026-08-31",
+        "stock": 49
+    },
+    "8901234560025": {
+        "id": 651,
+        "name": "Mosquito Coil",
+        "price": 15,
+        "gst": 12,
+        "discount": 0,
+        "expire": "2026-06-14",
+        "stock": 250
+    },
+    "8901234560026": {
+        "id": 652,
+        "name": "Tissue Roll Pack",
+        "price": 22,
+        "gst": 18,
+        "discount": 2,
+        "expire": "2026-07-31",
+        "stock": 160
+    },
+    "8901234560027": {
+        "id": 653,
+        "name": "Dettol Soap 125g",
+        "price": 32,
+        "gst": 18,
+        "discount": 5,
+        "expire": "2026-03-30",
+        "stock": 89
+    },
+    "8901234560028": {
+        "id": 654,
+        "name": "Baby Lotion",
+        "price": 65,
+        "gst": 12,
+        "discount": 4,
+        "expire": "2026-12-31",
+        "stock": 40
+    },
+    "8901234560029": {
+        "id": 655,
+        "name": "Coffee Powder 50g",
+        "price": 55,
+        "gst": 5,
+        "discount": 3,
+        "expire": "2026-06-30",
+        "stock": 65
+    },
+    "8901234560030": {
+        "id": 656,
+        "name": "Milk Powder 500g",
+        "price": 160,
+        "gst": 5,
+        "discount": 5,
+        "expire": "2026-05-31",
+        "stock": 60
+    }
+}
